@@ -1,0 +1,48 @@
+
+RESUMEN EJECUTIVO - COMPARACIÓN DE ESTRATEGIAS DE AMENAZA
+========================================================
+
+METODOLOGÍA APLICADA:
+• Estrategia 1 (Poisson): Probabilidad temporal constante basada en frecuencia histórica
+• Estrategia 2 (Híbrida): Poisson + factores estacionales y de precipitación
+
+DATOS BASE:
+• Eventos históricos: 89 deslizamientos en 29 años
+• Frecuencia promedio: 3.07 eventos/año
+• Mes más crítico: Agosto (25 eventos, 28.1%)
+
+ESTRATEGIA 1 - SOLO POISSON:
+• Probabilidad temporal constante: Pt = 0.008402
+• Interpretación: 95.4% probabilidad anual de ≥1 evento
+• Ventajas: Simple, robusta, ampliamente aceptada
+• Desventajas: No considera variabilidad temporal
+
+ESTRATEGIA 2 - HÍBRIDA:
+• Rango de Pt: 0.000840 - 0.054379
+• Factor de amplificación: 0.1x - 6.5x respecto a Poisson
+• Escenario más crítico: Época lluviosa + precipitación extrema
+• Escenario menos crítico: Época seca + precipitación normal
+
+COMPARACIÓN DE ESCENARIOS:
+• Época seca normal: 0.1x menor amenaza que Poisson
+• Época lluviosa extrema: 6.5x mayor amenaza que Poisson
+• Variabilidad estacional: Factor crítico en la amplificación
+
+RECOMENDACIONES:
+1. Usar Estrategia Poisson para planificación general y zonificación
+2. Usar Estrategia Híbrida para sistemas de alerta temprana
+3. Considerar factores estacionales en protocolos de emergencia
+4. Validar umbrales de precipitación con eventos futuros
+
+ARCHIVOS GENERADOS:
+• 6 mapas de amenaza en formato GeoTIFF
+• Gráficos comparativos y análisis estadístico
+• Datos tabulares para análisis posterior
+
+LIMITACIONES:
+• Correlaciones precipitación-deslizamientos débiles (0.016 máxima)
+• Factores híbridos basados en análisis exploratorio
+• Validación requerida con eventos independientes
+
+FECHA DE ANÁLISIS: 2025-07-06 12:10:55
+PERÍODO DE DATOS: 1970-2025

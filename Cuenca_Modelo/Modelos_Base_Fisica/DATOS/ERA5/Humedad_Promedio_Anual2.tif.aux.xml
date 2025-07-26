@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Humedad</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>4.40434862219769</HistMin>
+        <HistMax>5.205050924549932</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|79|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|121|0|0|0|0|74|7|0|0|0|108|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|47|0|0|0|0|0|0|0|0|0|0|0|0|0|0|19|0|0|0|0|0|0|0|0|21|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|73|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|22</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">4.4043486221977</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.2050509245499</MDI>
+      <MDI key="STATISTICS_MEAN">4.6540116972541</MDI>
+      <MDI key="STATISTICS_STDDEV">0.17321554137357</MDI>
+      <MDI key="STATISTICS_MEDIAN">4.599029</MDI>
+      <MDI key="STATISTICS_COUNT">578.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.03000362377333874</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

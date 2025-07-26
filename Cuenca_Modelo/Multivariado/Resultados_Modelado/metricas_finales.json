@@ -1,0 +1,33 @@
+{
+  "regresion_logistica_sklearn": {
+    "auc_train": 0.6611472044439077,
+    "auc_test": 0.6999846106494306,
+    "auc_cv_mean": 0.6632316218977619,
+    "auc_cv_std": 0.032831688171096836
+  },
+  "regresion_logistica_statsmodels": {
+    "auc_train": 0.661113392102403,
+    "auc_test": 0.6999846106494306,
+    "aic": 1188.520370948579,
+    "bic": 1217.4010385456445,
+    "pseudo_r2": 0.06738455787233044
+  },
+  "random_forest": {
+    "auc_train": 1.0,
+    "auc_test": 0.835257002154509,
+    "accuracy_train": 1.0,
+    "accuracy_test": 0.75
+  },
+  "mejor_modelo": "Random Forest",
+  "mejor_auc": 0.835257002154509,
+  "mejor_umbral": 0.452,
+  "n_variables": 5,
+  "n_observaciones_entrenamiento": 910,
+  "n_observaciones_prueba": 228,
+  "gam": {
+    "auc_train": 0.8337978505011472,
+    "auc_test": 0.7763927362265313,
+    "accuracy_train": 0.7318681318681318,
+    "accuracy_test": 0.6973684210526315
+  }
+}

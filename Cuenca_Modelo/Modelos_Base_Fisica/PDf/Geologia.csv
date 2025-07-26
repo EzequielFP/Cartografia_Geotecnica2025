@@ -1,0 +1,12 @@
+﻿Codigo,Unidad_geo,Granulomet,Espesor_m,Gamma_kNm3,C_kPa,Phi,Cat_modelo
+Sta,Suelo transportado aluvial,"Arena, limo y arcilla",3.0,19.000000000000000,8.000000000000000,28.000000000000000,1
+Sta,Suelo transportado aluvial,Limo y arcilla,2.5,18.000000000000000,15.000000000000000,24.000000000000000,2
+Sracgba,Suelo residual arenoarcilloso de cuarzodioritas y granodioritas del Batolito Antioqueño,Arena arcillosa,4.0,19.000000000000000,25.000000000000000,32.000000000000000,3
+Srlargd,Suelo residual limoarcilloso de gabros y dioritas,Limo arcilloso,2.5,18.399999999999999,16.500000000000000,24.399999999999999,4
+Rbgd,Roca blanda de gabros y dioritas,Limo arenoso,1.0,20.000000000000000,51.000000000000000,41.200000000000003,5
+Sracgba,Suelo residual arenoarcilloso de cuarzodioritas y granodioritas del Batolito Antioqueño,Arena arcillosa,3.5,18.000000000000000,30.000000000000000,26.000000000000000,6
+Sracgba,Suelo residual arenoarcilloso de cuarzodioritas y granodioritas del Batolito Antioqueño,Arena arcillosa,1.5,21.000000000000000,45.000000000000000,30.000000000000000,7
+Rmbeam,"Roca muy blanda de esquistos cuarzosericíticos, cloríticos y anfibólicos del Grupo Ayurá Montebello",Arena limosa,2.0,17.000000000000000,20.000000000000000,28.000000000000000,8
+Sralgth,Suelo residual arenolimoso del Gneis Tonalítico de Horizontes,Arena limosa,3.5,13.300000000000001,14.600000000000000,17.000000000000000,9
+Sta,Suelo transportado aluvial,"Arena, limo y grava",3.0,19.000000000000000,22.000000000000000,34.000000000000000,10
+Stco,Suelo transportado coluvial,Gravas,1.5,21.000000000000000,12.000000000000000,36.000000000000000,11

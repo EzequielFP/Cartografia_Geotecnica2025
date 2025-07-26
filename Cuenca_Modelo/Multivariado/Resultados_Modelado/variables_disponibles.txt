@@ -1,0 +1,7 @@
+# Lista de variables disponibles (ordenadas por AUC descendente)
+# Para seleccionar las variables, edita el archivo y deja solo las 5 deseadas sin comentar
+precipitacion
+slope
+distanciacaminos
+flowacc
+dem

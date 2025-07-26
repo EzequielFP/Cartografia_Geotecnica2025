@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Evaporacion</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.0415325294572698</HistMin>
+        <HistMax>-0.03773213991814334</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>19|0|0|0|0|0|0|0|0|0|0|0|0|21|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|47|0|0|0|0|0|7|0|0|0|0|0|0|0|0|0|0|22|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|73|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|79|0|0|108|0|0|0|0|0|0|0|0|0|0|0|0|0|0|7|0|121|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|74</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-0.04153252945727</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-0.037732139918143</MDI>
+      <MDI key="STATISTICS_MEAN">-0.039354617313577</MDI>
+      <MDI key="STATISTICS_STDDEV">0.00097633126948135</MDI>
+      <MDI key="STATISTICS_MEDIAN">-0.039193</MDI>
+      <MDI key="STATISTICS_COUNT">578.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">9.532227477670627e-07</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

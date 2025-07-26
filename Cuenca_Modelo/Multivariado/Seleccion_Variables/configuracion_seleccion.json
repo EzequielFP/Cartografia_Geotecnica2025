@@ -1,0 +1,52 @@
+{
+  "variables_seleccionadas": [
+    "precipitacion",
+    "slope",
+    "distanciacaminos",
+    "flowacc",
+    "dem"
+  ],
+  "seleccion_manual_original": {
+    "precipitacion": true,
+    "slope": true,
+    "curvatura_perfil": false,
+    "distanciacaminos": true,
+    "flowacc": true,
+    "geologia": false,
+    "suelos": false,
+    "coberturas": false,
+    "distanciarios": false,
+    "dem": true,
+    "aspect": false,
+    "curvatura_total": false
+  },
+  "variables_seleccionadas_manualmente": [
+    "precipitacion",
+    "slope",
+    "distanciacaminos",
+    "flowacc",
+    "dem"
+  ],
+  "num_seleccionadas_manual": 5,
+  "mapeo_variables": {
+    "precipitacion": "var1",
+    "slope": "var2",
+    "distanciacaminos": "var3",
+    "flowacc": "var4",
+    "dem": "var5"
+  },
+  "variables_categoricas": [],
+  "variables_numericas": [
+    "precipitacion",
+    "slope",
+    "distanciacaminos",
+    "flowacc",
+    "dem"
+  ],
+  "n_observaciones": 3273555,
+  "n_con_mm": 569,
+  "n_sin_mm": 3272986,
+  "proporcion_mm": 0.0001738171498569598,
+  "metodo_seleccion": "manual_independiente",
+  "fecha_seleccion_manual": "2025-07-01 21:45:42"
+}

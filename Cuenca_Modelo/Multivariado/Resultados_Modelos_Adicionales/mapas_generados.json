@@ -1,0 +1,44 @@
+[
+  {
+    "modelo": "SVM_RBF",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_SVM_RBF.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_SVM_RBF.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "SVM_Linear",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_SVM_Linear.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_SVM_Linear.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "MLP_Simple",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_MLP_Simple.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_MLP_Simple.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "MLP_Profunda",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_MLP_Profunda.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_MLP_Profunda.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "Poisson_Adaptado",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_Poisson_Adaptado.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_Poisson_Adaptado.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "Gradient_Boosting",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_Gradient_Boosting.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_Gradient_Boosting.png",
+    "auc_test": "N/A"
+  },
+  {
+    "modelo": "Naive_Bayes",
+    "archivo_tif": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\susceptibilidad_Naive_Bayes.tif",
+    "archivo_png": "E:\\Semestres\\2025_1\\Cartografia_Geotecnica\\Datos\\Cuenca_Modelo\\Variables\\Multivariado\\Resultados_Modelos_Adicionales\\mapa_visual_Naive_Bayes.png",
+    "auc_test": "N/A"
+  }
+]

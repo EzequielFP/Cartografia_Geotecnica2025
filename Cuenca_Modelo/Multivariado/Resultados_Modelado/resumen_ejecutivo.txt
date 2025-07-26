@@ -1,0 +1,33 @@
+
+RESUMEN EJECUTIVO - MODELADO DE SUSCEPTIBILIDAD A MOVIMIENTOS EN MASA
+====================================================================
+
+CONFIGURACIÓN:
+- Variables seleccionadas: 5
+- Total de observaciones: 3,273,555
+- Observaciones con movimientos: 569 (0.0%)
+
+MODELOS EVALUADOS:
+1. Regresión Logística (Sklearn): AUC = 0.700
+2. Regresión Logística (Statsmodels): AUC = 0.700
+3. Random Forest: AUC = 0.835
+4. GAM: AUC = 0.776
+
+MEJOR MODELO: Random Forest
+- AUC en datos de prueba: 0.835
+- Umbral óptimo: 0.452
+
+VARIABLES MÁS IMPORTANTES:
+- var5: 0.354
+- var1: 0.208
+- var3: 0.204
+- var2: 0.176
+- var4: 0.059
+
+ARCHIVOS PRINCIPALES:
+- modelo_lr_sklearn.pkl: Modelo de regresión logística
+- modelo_random_forest.pkl: Modelo Random Forest
+- metricas_finales.json: Métricas de todos los modelos
+- susceptibilidad_*.tif: Mapas de susceptibilidad
+
+FECHA DE ANÁLISIS: 2025-07-01 15:32:58

@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Precipitacion_Efectiva</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>2489.75081040034</HistMin>
+        <HistMax>3297.210931155041</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>17|0|0|0|0|0|0|0|0|22|0|0|0|0|0|0|0|35|0|0|0|0|0|0|0|0|0|0|7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|43|0|0|0|0|0|30|36|0|0|0|0|0|0|0|0|0|0|19|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|30|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|17|0|0|0|0|0|0|23|36|0|0|0|0|0|0|0|0|0|0|0|25|0|30|0|0|0|0|0|0|0|0|21|0|0|0|36|0|0|0|0|0|0|0|0|0|0|0|0|0|0|22|0|0|0|0|0|0|0|0|0|36|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|19|0|0|0|0|0|0|0|26|0|0|0|0|0|0|0|25|0|0|0|0|0|0|0|0|0|0|0|7|0|9|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2489.7508104003</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3297.210931155</MDI>
+      <MDI key="STATISTICS_MEAN">2843.4455645211</MDI>
+      <MDI key="STATISTICS_STDDEV">194.66023786312</MDI>
+      <MDI key="STATISTICS_MEDIAN">2869.732044</MDI>
+      <MDI key="STATISTICS_COUNT">578.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">37892.60820492624</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

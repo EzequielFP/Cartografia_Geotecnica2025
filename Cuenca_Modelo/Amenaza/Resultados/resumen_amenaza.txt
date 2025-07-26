@@ -1,0 +1,36 @@
+
+RESUMEN EJECUTIVO - ANÁLISIS DE AMENAZA POR MOVIMIENTOS EN MASA
+=============================================================
+
+CONFIGURACIÓN:
+- Período de análisis: 1971-01-01 a 2024-12-31
+- Días de lluvia antecedente: 30
+- Total de días analizados: 18,719
+
+DATOS DE ENTRADA:
+- Movimientos en masa: 108 eventos en 74 fechas
+- Datos de precipitación: 18,719 días
+- Precipitación promedio: 7.73 mm/día
+
+UMBRAL DE LLUVIA DEFINIDO:
+- Ecuación: P24h = 0.0 + 0.10 × P30d
+- Días que superan umbral: 2,247 (12.00%)
+- Eficacia del umbral: 7/64 eventos (10.9%)
+
+PROBABILIDADES CALCULADAS:
+- Probabilidad de excedencia anual: 1.000000
+- Probabilidad condicionada P(MM|umbral): 0.003115
+- Probabilidad temporal (Pt): 0.003115
+
+AMENAZA FINAL:
+- Fórmula: H = Ps × Pt
+- Probabilidad temporal (constante): 0.003115
+- Rango de amenaza: NO CALCULADO (error en mapa de susceptibilidad)
+
+ARCHIVOS GENERADOS:
+- mapa_amenaza_final.tif: NO GENERADO (error en mapa de susceptibilidad)
+- amenaza_categorizada.tif: NO GENERADO (error en mapa de susceptibilidad)
+- umbrales_lluvia.png: Gráfico de análisis de umbrales
+- eventos_con_lluvia.csv: Datos de eventos con información de lluvia
+
+FECHA DE ANÁLISIS: 2025-07-09 00:40:15

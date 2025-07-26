@@ -1,0 +1,23 @@
+COMPARACIÓN FINAL DE MODELOS
+============================================================
+
+REGRESIÓN LOGÍSTICA:
+  AUC Train: 0.6752
+  AUC Test: 0.6796
+  CV Mean: 0.6709
+  CV Std: 0.0216
+
+RANDOM FOREST:
+  AUC Train: 1.0000
+  AUC Test: 0.7562
+  Accuracy Train: 1.0000
+  Accuracy Test: 0.7000
+
+MODELO GAM:
+  AUC Train: 0.8167
+  AUC Test: 0.7336
+  Accuracy Train: 0.7432
+  Accuracy Test: 0.6773
+
+MEJOR MODELO: Random Forest
+MEJOR AUC: 0.7562
